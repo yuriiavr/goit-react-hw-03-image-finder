@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    font-size: 32px;
+    margin: 0 auto;
+    color: darkgrey;
+}
+.statList{
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  list-style: none;
+}
+
+.item{
+    border: 1px solid #afb1b8;
+    padding: 40px;
+}
